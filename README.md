@@ -18,7 +18,6 @@
 
 ### 메인 페이지
 
-<img src="./exec/images/main.jpg">
 - 카카오 소셜 로그인을 통한 회원가입  <br><br>
 
 ### 백테스트
